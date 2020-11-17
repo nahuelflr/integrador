@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605571649 source:d:\c++\proyectos\tp\main.cpp
+	<iostream>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	"funciones.h"
+
+1605574035 d:\c++\proyectos\tp\funciones.h
+
